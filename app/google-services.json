@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078647532926",
+    "firebase_url": "https://chatappkd.firebaseio.com",
+    "project_id": "chatappkd",
+    "storage_bucket": "chatappkd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078647532926:android:96a6868d3ef3b1987a572f",
+        "android_client_info": {
+          "package_name": "com.rahul.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078647532926-t1p4aa4ocm71ll5qa54p9luf7p470nm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLTF2MKM0LJOBb5E5x7E1jgbxos0QGiQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078647532926-t1p4aa4ocm71ll5qa54p9luf7p470nm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
